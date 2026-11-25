@@ -2,6 +2,8 @@
 
 An n8n workflow that turns customer order emails into Salesforce records. A small local language model reads the email; JavaScript code decides what happens next. Clean orders go to the CRM, unclear or suspicious ones go to a person.
 
+**Demo video (about 10 min, in Polish):** [watch on Google Drive](https://drive.google.com/file/d/1Tl82LGcBv79b03y0L2zxN7_g3pQAMKm9/view)
+
 Built as a demo for a junior AI & automation role. The sample emails are in Polish (one is in English), because that is the real-world case it was designed for.
 
 ## What it does
